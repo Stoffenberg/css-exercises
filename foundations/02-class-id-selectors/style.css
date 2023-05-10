@@ -1,0 +1,19 @@
+#numo {
+    color: blue;
+    font-size: 36px;
+}
+
+#nume {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.one {
+    background-color: lightpink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.two {
+    font-size: 24px;
+}
